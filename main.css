@@ -1,0 +1,127 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+main {
+    width: 82.5%;
+    height: 635px;
+    padding-top: 20px;
+    font-family:  “Lucida Sans Unicode”, “Lucida Grande”, sans-serif;
+    border: 20px solid #2b81ac;    
+    color: white;
+    background-color: #3399cc;
+    padding-top: 30px;
+    padding-left: 230px;
+}
+h3 {
+    margin-bottom: 20px;
+    margin-left: 36px;
+    font-size: 25px;
+    font-weight: 400;  
+}
+
+
+ul {
+    width: 980px;
+    height: 480px;
+    font-size: 0px;
+    padding-left: 0px;
+    margin-left: 40px;
+    border: 3px solid white;
+    background-color: white;
+}
+
+ul:hover li {
+ opacity: 0.5;
+
+   
+}
+
+li:hover {
+    opacity: 1 !important;
+
+    
+}
+ span {
+     display: inline-block;
+     padding-top: 30px;
+     padding-bottom: 10px;
+     font-size: 18px;
+ }
+
+
+li {
+    transition: all .1s ease-in;
+    -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+            box-sizing: border-box;
+    text-align: center;
+    display: inline-block;
+    width: 25%;
+    height: 120px;
+    font-size: 15px;
+    border: 3px solid white;
+}
+
+.big {
+    width: 50%; 
+    background-color: #669999;
+}
+
+.Big {
+    width: 50%; 
+    background-color:#3399cc;
+}
+.supperBig {
+  width: 100%;  
+  background-color:#666699;
+  height: 120px;
+}
+
+li.lightBlue:hover {
+    background-color: #33cccc;
+    opacity: 1;
+}
+.lightBlue {
+    background-color: #33cccc;
+}
+
+.vilot {
+    background-color: #996699;
+}
+
+.red {
+    background-color: #c24747;
+}
+
+.lightRed {
+    background-color: #e2674a;
+}
+
+.yellow {
+    background-color: #ffcc66;
+}
+
+.lightGreen {
+    background-color: #99cc99
+}
+
+
+.pink {
+    background-color: #cc6699;
+}
+
+.green {
+    background-color: #339966;
+}
+
+p {
+    margin-left: 35px;
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+.darker {
+    color: #ebc5c5;
+}
