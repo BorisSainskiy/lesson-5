@@ -52,8 +52,8 @@ li:hover {
 li {
     transition: all .1s ease-in;
     -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-            box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
     text-align: center;
     display: inline-block;
     width: 25%;
@@ -71,6 +71,7 @@ li {
     width: 50%; 
     background-color:#3399cc;
 }
+
 #supperBig {
   width: 100%;  
   background-color:#666699;
@@ -81,6 +82,7 @@ li#lightBlue:hover {
     background-color: #33cccc;
     opacity: 1;
 }
+
 #lightBlue {
     background-color: #33cccc;
 }
