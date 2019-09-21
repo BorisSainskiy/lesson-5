@@ -62,59 +62,59 @@ li {
     border: 3px solid white;
 }
 
-.big {
+#big {
     width: 50%; 
     background-color: #669999;
 }
 
-.Big {
+#Big {
     width: 50%; 
     background-color:#3399cc;
 }
-.supperBig {
+#supperBig {
   width: 100%;  
   background-color:#666699;
   height: 120px;
 }
 
-li.lightBlue:hover {
+li#lightBlue:hover {
     background-color: #33cccc;
     opacity: 1;
 }
-.lightBlue {
+#lightBlue {
     background-color: #33cccc;
 }
 
-.vilot {
+#vilot {
     background-color: #996699;
 }
 
-.red {
+#red {
     background-color: #c24747;
 }
 
-.lightRed {
+#lightRed {
     background-color: #e2674a;
 }
 
-.yellow {
+#yellow {
     background-color: #ffcc66;
 }
 
-.lightGreen {
+#lightGreen {
     background-color: #99cc99
 }
 
 
-.pink {
+#pink {
     background-color: #cc6699;
 }
 
-.green {
+#green {
     background-color: #339966;
 }
 
-.comment {
+#comment {
     margin-left: 35px;
     margin-top: 30px;
     font-size: 15px;
